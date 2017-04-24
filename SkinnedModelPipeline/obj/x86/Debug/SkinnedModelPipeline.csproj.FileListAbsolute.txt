@@ -1,0 +1,21 @@
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\SkinningSample\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\SkinningSample\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\SkinningSample\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\SkinningSample\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\SkinningSample\SkinnedModelPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\SkinningSample\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\SkinningSample\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\SkinnedModelPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\SkinnedModelPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb

@@ -1,0 +1,248 @@
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Images\blank.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Images\gradient.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Images\backgroundFullHD.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Images\backgroundFullHDSmall.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Images\background640x480.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Textures\floor_decal_map.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Textures\green.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_back.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_bottom.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_front.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_left.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_right.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_top.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\door35.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\fw42b.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\leafs.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\m1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\stoned.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wall1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wall7.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\window22.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wood_1B.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_back1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_back2.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_door1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_front1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_front2.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_s1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_window1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw_s1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\gruenzeug1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\gusseisen1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\holzbu1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\kamin1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\roof1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\schild1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\stone1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\windowbalk1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\windowsside1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\wood1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\chimney1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\Material__1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_3___frames1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_7___door1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_8___handle1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\walls1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House2\2\M_01___Default1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House3\house3\lambert2SG1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Fonts\gamefont.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Fonts\menufont.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Fonts\DemoFont.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Sounds\menuBrowse.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Sounds\birds.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Effects\blinn_phong.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Effects\effects.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House1\house1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House2\2.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House3\house3.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House4\house4.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\ground.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\fw43_lowpoly_n1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_back2_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\roof1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_front2_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_s1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw_s1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\windowsside1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\holzbu1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_back1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_front1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_window1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\kamin1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\wood1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\stone1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\schild1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_door1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\gruenzeug1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\windowbalk1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\gusseisen1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\Material__1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\walls1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\chimney1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_7___door1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_3___frames1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_8___handle1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House2\2\M_01___Default1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\House3\house3\lambert2SG1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Top_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Right_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Left_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Front_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Back_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Bottom_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\ground_grass_1024_tile_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wall7_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wood_1B_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\fw42b_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wall1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\stoned_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\window22_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\door35_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\leafs_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\m1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Sounds\menuBrowse.wma
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Sounds\birds.wma
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\RoboXNA.exe.config
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\RoboXNA.exe
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\RoboXNA.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\obj\x86\Debug\RoboXNA.exe
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\obj\x86\Debug\RoboXNA.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\dude.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\head_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\jacket_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\pants_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\upBodyC_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\sphere1uR.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNA\bin\x86\Debug\Content\Models\White_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Images\blank.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Images\gradient.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Images\backgroundFullHD.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Images\backgroundFullHDSmall.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Images\background640x480.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Textures\floor_decal_map.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Textures\green.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_back.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_bottom.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_front.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_left.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_right.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_top.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\door35.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\fw42b.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\leafs.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\m1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\stoned.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wall1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wall7.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\window22.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wood_1B.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_back1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_back2.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_door1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_front1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_front2.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_s1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_window1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw_s1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\gruenzeug1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\gusseisen1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\holzbu1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\kamin1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\roof1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\schild1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\stone1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\windowbalk1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\windowsside1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\wood1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\chimney1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\Material__1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_3___frames1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_7___door1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_8___handle1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\walls1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House2\2\M_01___Default1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House3\house3\lambert2SG1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Fonts\gamefont.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Fonts\menufont.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Fonts\DemoFont.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Sounds\menuBrowse.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Sounds\birds.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Effects\blinn_phong.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Effects\effects.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\ground.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\fw43_lowpoly_n1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\sphere1uR.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House2\2.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House3\house3.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House4\house4.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\dude.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Top_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Right_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Left_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Front_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Back_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Bottom_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\ground_grass_1024_tile_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wall7_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wood_1B_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\fw42b_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wall1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\stoned_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\window22_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\door35_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\leafs_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\m1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\White_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_back2_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\roof1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_front2_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_s1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw_s1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\windowsside1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\holzbu1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_back1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_front1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_window1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\kamin1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\wood1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\stone1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\schild1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_door1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\gruenzeug1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\windowbalk1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\gusseisen1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\Material__1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\walls1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\chimney1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_7___door1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_3___frames1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_8___handle1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House2\2\M_01___Default1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House3\house3\lambert2SG1_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\head_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\jacket_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\pants_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\upBodyC_0.xnb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Sounds\menuBrowse.wma
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Sounds\birds.wma
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\RoboXNA.exe.config
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\RoboXNA.exe
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\RoboXNA.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\obj\x86\Debug\RoboXNA.exe
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\obj\x86\Debug\RoboXNA.pdb

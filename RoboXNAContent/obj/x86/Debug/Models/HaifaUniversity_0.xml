@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>Model</Name>
+    <Identity>
+      <SourceFilename>D:\MyDocs\Graphics Project\RoboXNA\RoboXNAContent\Models\HaifaUniversity.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>Mesh1</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>-67.1833 0 -107.602966 -67.1833 0 -82.35196 -81.6833 0 -82.35196 -81.6833 0 -107.602966 -67.1833 153.944885 -107.602966 -67.1833 153.944885 -44.752964 -67.1833 0.19 -44.752964 -67.1833 0.19 -82.35196 -67.1833 0 -82.35196 -67.1833 0 -107.602966 -67.1833 153.944885 -44.752964 -67.1833 153.944885 -107.602966 -81.6833 153.944885 -107.602966 -81.6833 153.944885 -44.752964 -67.1833 153.944885 -107.602966 -67.1833 0 -107.602966 -81.6833 0 -107.602966 -81.6833 153.944885 -107.602966 -81.6833 0 -107.602966 -81.6833 0 -82.35196 -81.6833 0.19 -82.35196 -81.6833 0.19 -44.752964 -81.6833 153.944885 -44.752964 -81.6833 153.944885 -107.602966 -81.6833 0 -44.752964 -81.6833 0 -44.752964 -67.1833 0 -44.752964 -67.1833 0 -44.752964 -65.89143 0 -82.35196 -67.1833 0 -82.35196 -67.1833 0.19 -82.35196 -65.89143 0.19 -82.35196 -81.6833 0 -44.752964 -67.1833 0 -44.752964 -67.1833 0.19 -44.752964 -81.6833 0.19 -44.752964 -81.6833 153.944885 -44.752964 -67.1833 153.944885 -44.752964</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 1 2 8 8 9 1</Indices>
+            <Vertices>
+              <PositionIndices>0 1 2 3 10 11 12 13 25 26</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 1 -0 0 1 -0 0 1 -0 0 1 -0 0 -1 -0 0 -1 -0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">2645.01147 -4235.3374 2645.01147 -3241.20313 3215.87769 -3241.20313 3215.87769 -4235.3374 -2645.01147 -1760.92773 -2645.01147 -4235.3374 -3215.87769 -4235.3374 -3215.87769 -1760.92773 3215.87769 -1760.92773 2645.01147 -1760.92773</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource2</Material>
+            <Indices>2 1 0 0 3 2 4 3 0 4 5 3</Indices>
+            <Vertices>
+              <PositionIndices>4 5 6 7 9 8</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">1 0 -0 1 0 -0 1 0 -0 1 0 -0 1 0 -0 1 0 -0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 0 0 0 0 0.998765767 0.5982338 0.998765767 1 1 0.5982338 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource3</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>14 15 16 17</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 -1 0 0 -1 0 0 -1 0 0 -1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0 0 0 1 1 1 1 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource4</Material>
+            <Indices>2 1 0 0 3 2 4 3 0 4 5 3</Indices>
+            <Vertices>
+              <PositionIndices>18 19 20 21 23 22</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0 1 0.401766181 1 0.401766181 0.998765767 1 0.998765767 0 0 1 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource5</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14</Indices>
+            <Vertices>
+              <PositionIndices>19 24 21 20 27 8 7 6 28 29 30 31 32 33 34 35</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 1 0 -0 1 0 -0 1 0 -0 1 0 -0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.43661207 1 0.5107976 1 0.5107976 1.2201351E-13 0.43661207 1.2201351E-13 0.6873994 1 0.761585 1 0.761585 1.2201351E-13 0.6873994 1.2201351E-13 0.729107141 1 0.7316561 1 0.7316561 1.2201351E-13 0.729107141 1.2201351E-13 0.4379314 1 0.466540962 1 0.466540962 1.2201351E-13 0.4379314 1.2201351E-13</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource6</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>36 35 34 37</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0 0 0 1 1 1 1 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Mesh2</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>177.510147 24.68 46.1499443 236.850143 24.68 46.1499443 236.850143 24.68 5.469943 177.510147 24.68 5.469943 236.850143 24.68 46.1499443 177.510147 24.68 46.1499443 177.510147 -0.1 46.1499443 236.850143 -0.1 46.1499443 177.510147 24.68 46.1499443 177.510147 24.68 5.469943 177.510147 -0.1 5.469943 177.510147 -0.1 46.1499443 177.510147 24.68 5.469943 236.850143 24.68 5.469943 236.850143 -0.1 5.469943 177.510147 -0.1 5.469943 236.850143 24.68 5.469943 236.850143 24.68 46.1499443 236.850143 -0.1 46.1499443 236.850143 -0.1 5.469943 236.850143 -0.1 46.1499443 177.510147 -0.1 46.1499443 177.510147 -0.1 5.469943 236.850143 -0.1 5.469943</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14</Indices>
+            <Vertices>
+              <PositionIndices>0 1 2 3 8 9 10 11 12 13 14 15 20 21 22 23</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 1 -0 0 1 -0 0 1 -0 0 1 -0 -1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">6988.58838 1817.92688 9324.809 1817.92688 9324.809 216.352081 6988.58838 216.352081 1816.92688 -970.653564 215.352081 -970.653564 215.352081 4.937008 1816.92688 4.937008 -6988.58838 -970.653564 -9324.809 -970.653564 -9324.809 4.937008 -6988.58838 4.937008 -9324.809 1817.92688 -6988.58838 1817.92688 -6988.58838 216.352081 -9324.809 216.352081</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource7</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>4 5 6 7</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 0 -4.440892E-16 0 -4.440892E-16 1 1 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource8</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>16 17 18 19</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">1 0 -0 1 0 -0 1 0 -0 1 0 -0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 0 0 0 0 1 1 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Mesh3</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>-1.66274977 24.25 47.0995064 169.017258 24.25 47.0995064 169.017258 24.25 6.309508 -1.66274977 24.25 6.309508 169.017258 24.25 47.0995064 -1.66274977 24.25 47.0995064 -1.66274977 -4.83680648E-14 47.0995064 169.017258 -4.83680648E-14 47.0995064 -1.66274977 24.25 47.0995064 -1.66274977 24.25 6.309508 -1.66274977 -4.83680648E-14 6.309508 -1.66274977 -4.83680648E-14 47.0995064 -1.66274977 24.25 6.309508 169.017258 24.25 6.309508 169.017258 -4.83680648E-14 6.309508 -1.66274977 -4.83680648E-14 6.309508 169.017258 24.25 6.309508 169.017258 10.5262661 11.9677544 169.017258 -4.83680648E-14 6.309508 169.017258 10.5262661 25.0577545 169.017258 24.25 47.0995064 169.017258 3.80626631 25.0577545 169.017258 -4.83680648E-14 47.0995064 169.017258 3.80626631 11.9677544 169.017258 3.80626631 11.9677544 169.017258 10.5262661 11.9677544 182.217255 10.5262661 11.9677544 182.217255 3.80626631 11.9677544 169.017258 10.5262661 11.9677544 169.017258 10.5262661 25.0577545 182.217255 10.5262661 25.0577545 182.217255 10.5262661 11.9677544 169.017258 10.5262661 25.0577545 169.017258 3.80626631 25.0577545 182.217255 3.80626631 25.0577545 182.217255 10.5262661 25.0577545 169.017258 3.80626631 25.0577545 169.017258 3.80626631 11.9677544 182.217255 3.80626631 11.9677544 182.217255 3.80626631 25.0577545 182.217255 3.80626631 11.9677544 182.217255 10.5262661 11.9677544 182.217255 10.5262661 25.0577545 182.217255 3.80626631 25.0577545</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 5 7 4 4 7 8 9 8 7 8 9 10 6 10 9 11 6 9 5 6 11 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22 26 25 24 24 27 26 30 29 28 28 31 30</Indices>
+            <Vertices>
+              <PositionIndices>0 1 2 3 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 1 -0 0 1 -0 0 1 -0 0 1 -0 1 0 -0 1 0 -0 1 0 -0 1 0 -0 1 0 -0 1 0 -0 1 0 -0 1 0 -0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 -0 0 1 -0 0 1 -0 0 1 -0 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 1 0 -0 1 0 -0 1 0 -0 1 0 -0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">-65.46259 1855.31128 6654.22266 1855.31128 6654.22266 249.405823 -65.46259 249.405823 -248.405823 -953.7244 -471.171417 -413.419922 -248.405823 1 -986.525757 -413.419922 -1854.31128 -953.7244 -986.525757 -148.853 -1854.31128 1 -471.171417 -148.853 -6654.22266 -148.853 -6654.22266 -413.419922 -7173.90771 -413.419922 -7173.90771 -148.853 6654.22266 472.171417 6654.22266 987.525757 7173.90771 987.525757 7173.90771 472.171417 6654.22266 -413.419922 6654.22266 -148.853 7173.90771 -148.853 7173.90771 -413.419922 -6654.22266 987.525757 -6654.22266 472.171417 -7173.90771 472.171417 -7173.90771 987.525757 -471.171417 -148.853 -471.171417 -413.419922 -986.525757 -413.419922 -986.525757 -148.853</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource9</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>4 5 6 7</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 0 0 0 0 1 1 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource10</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>8 9 10 11</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 0 0 0 0 1 1 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource11</Material>
+            <Indices>2 1 0 0 3 2</Indices>
+            <Vertices>
+              <PositionIndices>12 13 14 15</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 -1 0 0 -1 0 0 -1 0 0 -1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1 0 0 0 0 1 1 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Mesh4</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>303.637238 2.31011651E-14 -42.2863121 -12.332757 2.31011651E-14 -42.2863121 -12.332757 2.31011651E-14 -203.18631 303.637238 2.31011651E-14 -203.18631 -12.332757 2.31011651E-14 -42.2863121 303.637238 2.31011651E-14 -42.2863121 303.637238 0.19 -42.2863121 303.637238 24.07 -42.2863121 -12.332757 24.07 -42.2863121 -12.332757 0.19 -42.2863121 303.637238 2.31011651E-14 -42.2863121 303.637238 2.31011651E-14 -203.18631 303.637238 0.19 -203.18631 303.637238 0.19 -42.2863121 303.637238 2.31011651E-14 -203.18631 -12.332757 2.31011651E-14 -203.18631 -12.332757 0.19 -203.18631 303.637238 0.19 -203.18631 -12.332757 2.31011651E-14 -203.18631 -12.332757 2.31011651E-14 -42.2863121 -12.332757 0.19 -42.2863121 -12.332757 0.19 -203.18631 -12.332757 29.47 -203.18631 -12.332757 24.07 -42.2863121 -12.332757 29.47 -42.2863121 303.637238 29.47 -203.18631 -12.332757 29.47 -203.18631 303.637238 24.07 -42.2863121 303.637238 29.47 -203.18631 303.637238 29.47 -42.2863121 -12.332757 29.47 -42.2863121 303.637238 29.47 -42.2863121 303.637238 29.47 -203.18631 -12.332757 29.47 -203.18631 303.637238 29.51 -42.2863121 303.637238 29.47 -42.2863121 -12.332757 29.47 -42.2863121 -12.332757 29.51 -42.2863121 303.637238 24.07 -15.3135624 303.637238 29.51 -42.2863121 303.637238 29.51 -15.3135624 303.637238 24.07 -15.3135624 35.87391 24.07 -23.93077 303.637238 24.07 -42.2863121 31.0359859 24.07 -23.93077 -6.397885 24.07 -24.1020546 -11.2358065 24.07 -24.1020546 -12.332757 24.07 -15.3135624 -11.2358065 24.07 -27.0920544 -12.332757 24.07 -42.2863121 303.637238 24.07 -42.2863121 -12.332757 24.07 -42.2863121 -12.332757 24.07 -15.3135624 -12.332757 29.51 -15.3135624 -12.332757 29.51 -42.2863121 -12.332757 24.07 -15.3135624 303.637238 24.07 -15.3135624 303.637238 29.51 -15.3135624 -12.332757 29.51 -15.3135624 -11.2358065 29.51 -24.1020546 -12.332757 29.51 -15.3135624 303.637238 29.51 -15.3135624 -12.332757 29.51 -42.2863121 -11.2358065 29.51 -27.0920544 303.637238 29.51 -42.2863121 -6.397885 29.51 -27.0920544 -11.2358065 -0.14 -27.0920544 -11.2358065 24.07 -27.0920544 -11.2358065 29.51 -27.0920544 -6.397885 29.51 -27.0920544 -6.397885 24.07 -27.0920544 -6.397885 -0.14 -27.0920544 -11.2358065 -0.14 -24.1020546 -11.2358065 24.07 -24.1020546 -11.2358065 29.51 -24.1020546 -11.2358065 29.51 -27.0920544 -11.2358065 24.07 -27.0920544 -11.2358065 -0.14 -27.0920544 -6.397885 -0.14 -24.1020546 -6.397885 24.07 -24.1020546 -6.397885 29.51 -24.1020546 -11.2358065 29.51 -24.1020546 -11.2358065 24.07 -24.1020546 -11.2358065 -0.14 -24.1020546 -6.397885 -0.14 -27.0920544 -6.397885 24.07 -27.0920544 -6.397885 29.51 -27.0920544 -6.397885 29.51 -24.1020546 -6.397885 24.07 -24.1020546 -6.397885 -0.14 -24.1020546 -6.397885 29.51 -24.1020546 31.0359859 29.51 -23.93077 35.87391 29.51 -23.93077 35.87391 29.51 -26.92077 31.0359859 29.51 -26.92077 31.0359859 -0.14 -23.93077 31.0359859 24.07 -23.93077 31.0359859 29.51 -23.93077 31.0359859 29.51 -26.92077 31.0359859 24.07 -26.92077 31.0359859 -0.14 -26.92077 35.87391 -0.14 -23.93077 35.87391 24.07 -23.93077 35.87391 29.51 -23.93077 31.0359859 29.51 -23.93077 31.0359859 24.07 -23.93077 31.0359859 -0.14 -23.93077 35.87391 -0.14 -26.92077 35.87391 24.07 -26.92077 35.87391 29.51 -26.92077 35.87391 29.51 -23.93077 35.87391 24.07 -23.93077 35.87391 -0.14 -23.93077 31.0359859 -0.14 -26.92077 31.0359859 24.07 -26.92077 31.0359859 29.51 -26.92077 35.87391 29.51 -26.92077 35.87391 24.07 -26.92077 35.87391 -0.14 -26.92077 31.0359859 -0.14 -23.93077 31.0359859 -0.14 -26.92077 35.87391 -0.14 -26.92077 35.87391 -0.14 -23.93077 -11.2358065 -0.14 -24.1020546 -11.2358065 -0.14 -27.0920544 -6.397885 -0.14 -27.0920544 -6.397885 -0.14 -24.1020546 -6.397885 24.07 -27.0920544 31.0359859 24.07 -26.92077 35.87391 24.07 -26.92077</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 8 7 4 8 9 7 12 11 10 10 13 12 14 13 10 17 16 15 15 18 17 21 20 19 19 22 21 23 22 19 26 25 24 24 27 26 30 29 28 28 31 30 23 19 32 32 33 23 34 33 32 37 36 35 36 38 35 38 39 35 39 40 35 35 40 41 42 41 40 41 42 43 37 43 42 30 45 44 44 29 30 47 46 13 13 48 47 14 48 13 51 50 49 49 52 51 55 54 53 56 53 54 53 56 57 58 57 56 59 57 58 62 61 60 60 63 62 64 63 60 64 65 63 68 67 66 66 69 68 70 69 66 70 71 69 74 73 72 72 75 74 76 75 72 76 77 75 80 79 78 78 81 80 82 81 78 82 83 81 59 85 84 85 55 84 84 55 53 86 55 85 87 55 86 55 87 58 87 88 58 88 59 58 85 59 88 91 90 89 89 92 91 93 92 89 93 94 92 97 96 95 95 98 97 99 98 95 99 100 98 103 102 101 101 104 103 105 104 101 105 106 104 109 108 107 107 110 109 111 110 107 111 112 110 115 114 113 113 116 115 119 118 117 117 120 119 121 37 42 122 37 121 123 37 122 36 37 123 39 122 121 122 39 38</Indices>
+            <Vertices>
+              <PositionIndices>0 1 2 3 4 5 6 7 9 8 22 21 20 23 24 25 17 16 26 27 13 12 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 71 70 72 73 74 75 77 76 78 79 80 81 83 82 84 85 86 87 89 88 90 91 92 93 94 95 96 97 98 100 99 101 102 103 104 106 105 107 108 109 110 112 111 113 114 115 116 118 117 119 120 121 122 123 124 125 126 127 128 129</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 -1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 1 0 -0 1 0 -0 1 0 -0 1 0 -0 1 0 -0 0 1 -0 0 1 -0 0 1 -0 0 1 -0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 1 0 -0 1 0 -0 1 0 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 0 -1 0 0 -1 -1 0 -0 -1 0 -0 -1 0 -0 0 0 1 0 0 1 0 0 1 0 0 1 0 1 -0 0 1 -0 0 1 -0 0 1 -0 0 1 -0 0 1 -0 0 1 -0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 -1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 1 0 -0 1 0 -0 1 0 -0 1 0 -0 1 0 -0 1 0 -0 0 1 -0 0 1 -0 0 1 -0 0 1 -0 0 1 -0 -1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 1 0 -0 1 0 -0 1 0 -0 1 0 -0 1 0 -0 1 0 -0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0 0 -1 -0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">-11954.2217 -1663.81543 485.541626 -1663.81543 485.541626 -7998.461 -11954.2217 -7998.461 -485.541626 1 11954.2217 1 11954.2217 -6.48031473 11954.2217 -946.6378 -485.541626 -6.48031473 -485.541626 -946.6378 -7999.461 -1159.23621 -7999.461 -6.48031473 -1664.81543 -6.48031473 -1664.81543 -946.6378 -1664.81543 -1159.23621 -11954.2217 -1159.23621 -11954.2217 -6.48031473 485.541626 -6.48031473 485.541626 -1159.23621 1664.81543 -946.6378 1664.81543 -6.48031473 7999.461 -6.48031473 7999.461 -1159.23621 1664.81543 -1159.23621 -485.541626 -1663.81543 11954.2217 -1663.81543 11954.2217 -7998.461 -485.541626 -7998.461 -11954.2217 -1160.811 -11954.2217 -1159.23621 485.541626 -1159.23621 485.541626 -1160.811 602.8962 -946.6378 1664.81543 -1160.811 602.8962 -1160.811 -11954.2217 -601.8962 -1412.35852 -941.1563 -11954.2217 -1663.81543 -1221.88916 -941.1563 251.885239 -947.8998 442.354584 -947.8998 485.541626 -601.8962 442.354584 -1065.61633 485.541626 -1663.81543 -11954.2217 -946.6378 485.541626 -946.6378 -602.8962 -946.6378 -602.8962 -1160.811 -1664.81543 -1160.811 -485.541626 -946.6378 11954.2217 -946.6378 11954.2217 -1160.811 -485.541626 -1160.811 -442.354584 -947.8998 -485.541626 -601.8962 11954.2217 -601.8962 -485.541626 -1663.81543 -442.354584 -1065.61633 11954.2217 -1663.81543 -251.885239 -1065.61633 442.354584 6.51181126 442.354584 -946.6378 442.354584 -1160.811 251.885239 -1160.811 251.885239 6.51181126 251.885239 -946.6378 -948.8998 6.51181126 -948.8998 -946.6378 -948.8998 -1160.811 -1066.61633 -1160.811 -1066.61633 6.51181126 -1066.61633 -946.6378 -251.885239 6.51181126 -251.885239 -946.6378 -251.885239 -1160.811 -442.354584 -1160.811 -442.354584 6.51181126 -442.354584 -946.6378 1066.61633 6.51181126 1066.61633 -946.6378 1066.61633 -1160.811 948.8998 -1160.811 948.8998 6.51181126 948.8998 -946.6378 -251.885239 -947.8998 1221.88916 -941.1563 1412.35852 -941.1563 1412.35852 -1058.87292 1221.88916 -1058.87292 -942.1563 6.51181126 -942.1563 -946.6378 -942.1563 -1160.811 -1059.87292 -1160.811 -1059.87292 6.51181126 -1059.87292 -946.6378 1412.35852 6.51181126 1412.35852 -946.6378 1412.35852 -1160.811 1221.88916 -1160.811 1221.88916 6.51181126 1221.88916 -946.6378 1059.87292 6.51181126 1059.87292 -946.6378 1059.87292 -1160.811 942.1563 -1160.811 942.1563 6.51181126 942.1563 -946.6378 -1221.88916 6.51181126 -1221.88916 -946.6378 -1221.88916 -1160.811 -1412.35852 -1160.811 -1412.35852 6.51181126 -1412.35852 -946.6378 -1221.88916 -941.1563 -1221.88916 -1058.87292 -1412.35852 -1058.87292 -1412.35852 -941.1563 442.354584 -947.8998 442.354584 -1065.61633 251.885239 -1065.61633 251.885239 -947.8998 251.885239 -1065.61633 -1221.88916 -1058.87292 -1412.35852 -1058.87292</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+          <Batch>
+            <Material>#Resource12</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10</Indices>
+            <Vertices>
+              <PositionIndices>10 11 12 13 14 15 16 17 18 19 20 21</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">1 0 -0 1 0 -0 1 0 -0 1 0 -0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 -1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.6825325 1 1 1 1 0 0.6825325 0 0 1 0.623432 1 0.623432 0 0 0 0.198197052 1 0.5156645 1 0.5156645 0 0.198197052 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Mesh5</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>89.14243 24.21 -23.9630814 84.30451 24.21 -23.9630814 84.30451 1.15505826E-14 -23.9630814 89.14243 1.15505826E-14 -23.9630814 84.30451 24.21 -23.9630814 84.30451 24.21 -26.9530811 84.30451 1.15505826E-14 -26.9530811 84.30451 1.15505826E-14 -23.9630814 84.30451 24.21 -26.9530811 89.14243 24.21 -26.9530811 89.14243 1.15505826E-14 -26.9530811 84.30451 1.15505826E-14 -26.9530811 89.14243 24.21 -26.9530811 89.14243 24.21 -23.9630814 89.14243 1.15505826E-14 -23.9630814 89.14243 1.15505826E-14 -26.9530811</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14</Indices>
+            <Vertices>
+              <PositionIndices>0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1 -1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 1 0 -0 1 0 -0 1 0 -0 1 0 -0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">3509.54468 -952.1496 3319.07544 -952.1496 3319.07544 1 3509.54468 1 -943.4284 -952.1496 -1061.145 -952.1496 -1061.145 1 -943.4284 1 -3319.07544 -952.1496 -3509.54468 -952.1496 -3509.54468 1 -3319.07544 1 1061.145 -952.1496 943.4284 -952.1496 943.4284 1 1061.145 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Mesh6</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>145.213669 24.21 -27.46296 145.213669 24.21 -24.47296 145.213669 0 -24.47296 145.213669 0 -27.46296 145.213669 24.21 -24.47296 140.375748 24.21 -24.47296 140.375748 0 -24.47296 145.213669 0 -24.47296 140.375748 24.21 -24.47296 140.375748 24.21 -27.46296 140.375748 0 -27.46296 140.375748 0 -24.47296 140.375748 24.21 -27.46296 145.213669 24.21 -27.46296 145.213669 0 -27.46296 140.375748 0 -27.46296</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14</Indices>
+            <Vertices>
+              <PositionIndices>0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">1 0 -0 1 0 -0 1 0 -0 1 0 -0 0 0 1 0 0 1 0 0 1 0 0 1 -1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 0 0 -1 0 0 -1 0 0 -1 0 0 -1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">1081.21887 -952.1496 963.5023 -952.1496 963.5023 1 1081.21887 1 5717.07373 -952.1496 5526.604 -952.1496 5526.604 1 5717.07373 1 -963.5023 -952.1496 -1081.21887 -952.1496 -1081.21887 1 -963.5023 1 -5526.604 -952.1496 -5717.07373 -952.1496 -5717.07373 1 -5526.604 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Mesh7</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>192.906647 24.21 -23.86457 192.906647 24.21 -26.85457 192.906647 0 -26.85457 192.906647 0 -23.86457 192.906647 24.21 -26.85457 197.744568 24.21 -26.85457 197.744568 0 -26.85457 192.906647 0 -26.85457 197.744568 24.21 -26.85457 197.744568 24.21 -23.86457 197.744568 0 -23.86457 197.744568 0 -26.85457 197.744568 24.21 -23.86457 192.906647 24.21 -23.86457 192.906647 0 -23.86457 197.744568 0 -23.86457</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14</Indices>
+            <Vertices>
+              <PositionIndices>0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 1 0 -0 1 0 -0 1 0 -0 1 0 -0 0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">-939.550049 -952.1496 -1057.2666 -952.1496 -1057.2666 1 -939.550049 1 -7594.75 -952.1496 -7785.219 -952.1496 -7785.219 1 -7594.75 1 1057.2666 -952.1496 939.550049 -952.1496 939.550049 1 1057.2666 1 7785.219 -952.1496 7594.75 -952.1496 7594.75 1 7785.219 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Mesh8</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>254.663818 24.21 -24.253788 254.663818 24.21 -27.2437878 254.663818 0 -27.2437878 254.663818 0 -24.253788 254.663818 24.21 -27.2437878 259.50174 24.21 -27.2437878 259.50174 0 -27.2437878 254.663818 0 -27.2437878 259.50174 24.21 -27.2437878 259.50174 24.21 -24.253788 259.50174 0 -24.253788 259.50174 0 -27.2437878 259.50174 24.21 -24.253788 254.663818 24.21 -24.253788 254.663818 0 -24.253788 259.50174 0 -24.253788</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14</Indices>
+            <Vertices>
+              <PositionIndices>0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 1 0 -0 1 0 -0 1 0 -0 1 0 -0 0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">-954.873535 -952.1496 -1072.59009 -952.1496 -1072.59009 1 -954.873535 1 -10026.1348 -952.1496 -10216.6035 -952.1496 -10216.6035 1 -10026.1348 1 1072.59009 -952.1496 954.873535 -952.1496 954.873535 1 1072.59009 1 10216.6035 -952.1496 10026.1348 -952.1496 10026.1348 1 10216.6035 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Mesh9</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>296.553284 24.21 -23.0588646 296.553284 24.21 -26.0488644 296.553284 0 -26.0488644 296.553284 0 -23.0588646 296.553284 24.21 -26.0488644 301.3912 24.21 -26.0488644 301.3912 0 -26.0488644 296.553284 0 -26.0488644 301.3912 24.21 -26.0488644 301.3912 24.21 -23.0588646 301.3912 0 -23.0588646 301.3912 0 -26.0488644 301.3912 24.21 -23.0588646 296.553284 24.21 -23.0588646 296.553284 0 -23.0588646 301.3912 0 -23.0588646</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14</Indices>
+            <Vertices>
+              <PositionIndices>0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">-1 0 -0 -1 0 -0 -1 0 -0 -1 0 -0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 1 0 -0 1 0 -0 1 0 -0 1 0 -0 0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">-907.829346 -952.1496 -1025.5459 -952.1496 -1025.5459 1 -907.829346 1 -11675.3271 -952.1496 -11865.7959 -952.1496 -11865.7959 1 -11675.3271 1 1025.5459 -952.1496 907.829346 -952.1496 907.829346 1 1025.5459 1 11865.7959 -952.1496 11675.3271 -952.1496 11675.3271 1 11865.7959 1</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>FrontColor</Name>
+      <Identity>
+        <SourceFilename>D:\MyDocs\Graphics Project\RoboXNA\RoboXNAContent\Models\HaifaUniversity.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.33 0.33 0.33</Data>
+        <Data Key="SpecularPower" Type="float">20</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Name>Photo_Texture13</Name>
+      <Identity>
+        <SourceFilename>D:\MyDocs\Graphics Project\RoboXNA\RoboXNAContent\Models\HaifaUniversity.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.454901963 0.423529416 0.431372553</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.33 0.33 0.33</Data>
+        <Data Key="SpecularPower" Type="float">20</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource3" Type="Graphics:BasicMaterialContent">
+      <Name>Photo_Texture16</Name>
+      <Identity>
+        <SourceFilename>D:\MyDocs\Graphics Project\RoboXNA\RoboXNAContent\Models\HaifaUniversity.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.458823532 0.431372553 0.4392157</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.33 0.33 0.33</Data>
+        <Data Key="SpecularPower" Type="float">20</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External2</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource4" Type="Graphics:BasicMaterialContent">
+      <Name>Photo_Texture14</Name>
+      <Identity>
+        <SourceFilename>D:\MyDocs\Graphics Project\RoboXNA\RoboXNAContent\Models\HaifaUniversity.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.454901963 0.423529416 0.431372553</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.33 0.33 0.33</Data>
+        <Data Key="SpecularPower" Type="float">20</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External3</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource5" Type="Graphics:BasicMaterialContent">
+      <Name>Photo_Texture</Name>
+      <Identity>
+        <SourceFilename>D:\MyDocs\Graphics Project\RoboXNA\RoboXNAContent\Models\HaifaUniversity.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.5803922 0.5686275 0.5568628</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.33 0.33 0.33</Data>
+        <Data Key="SpecularPower" Type="float">20</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External4</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource6" Type="Graphics:BasicMaterialContent">
+      <Name>Photo_Texture15</Name>
+      <Identity>
+        <SourceFilename>D:\MyDocs\Graphics Project\RoboXNA\RoboXNAContent\Models\HaifaUniversity.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.454901963 0.423529416 0.431372553</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.33 0.33 0.33</Data>
+        <Data Key="SpecularPower" Type="float">20</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External5</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource7" Type="Graphics:BasicMaterialContent">
+      <Name>Photo_Texture6</Name>
+      <Identity>
+        <SourceFilename>D:\MyDocs\Graphics Project\RoboXNA\RoboXNAContent\Models\HaifaUniversity.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.41568628 0.4392157 0.470588237</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.33 0.33 0.33</Data>
+        <Data Key="SpecularPower" Type="float">20</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External6</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource8" Type="Graphics:BasicMaterialContent">
+      <Name>Photo_Texture5</Name>
+      <Identity>
+        <SourceFilename>D:\MyDocs\Graphics Project\RoboXNA\RoboXNAContent\Models\HaifaUniversity.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.3647059 0.384313732 0.41568628</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.33 0.33 0.33</Data>
+        <Data Key="SpecularPower" Type="float">20</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External7</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource9" Type="Graphics:BasicMaterialContent">
+      <Name>Photo_Texture7</Name>
+      <Identity>
+        <SourceFilename>D:\MyDocs\Graphics Project\RoboXNA\RoboXNAContent\Models\HaifaUniversity.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.41568628 0.4392157 0.470588237</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.33 0.33 0.33</Data>
+        <Data Key="SpecularPower" Type="float">20</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External8</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource10" Type="Graphics:BasicMaterialContent">
+      <Name>Photo_Texture8</Name>
+      <Identity>
+        <SourceFilename>D:\MyDocs\Graphics Project\RoboXNA\RoboXNAContent\Models\HaifaUniversity.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.41568628 0.4392157 0.470588237</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.33 0.33 0.33</Data>
+        <Data Key="SpecularPower" Type="float">20</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External9</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource11" Type="Graphics:BasicMaterialContent">
+      <Name>Photo_Texture9</Name>
+      <Identity>
+        <SourceFilename>D:\MyDocs\Graphics Project\RoboXNA\RoboXNAContent\Models\HaifaUniversity.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.6627451 0.6745098 0.6901961</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.33 0.33 0.33</Data>
+        <Data Key="SpecularPower" Type="float">20</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External10</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+    <Resource ID="#Resource12" Type="Graphics:BasicMaterialContent">
+      <Name>Photo_Texture</Name>
+      <Identity>
+        <SourceFilename>D:\MyDocs\Graphics Project\RoboXNA\RoboXNAContent\Models\HaifaUniversity.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.5803922 0.5686275 0.5568628</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.33 0.33 0.33</Data>
+        <Data Key="SpecularPower" Type="float">20</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External4</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\Models\haifa\Photo_Texture13.jpg</ExternalReference>
+    <ExternalReference ID="#External2" TargetType="Graphics:TextureContent">..\..\..\..\Models\haifa\Photo_Texture16.jpg</ExternalReference>
+    <ExternalReference ID="#External3" TargetType="Graphics:TextureContent">..\..\..\..\Models\haifa\Photo_Texture14.jpg</ExternalReference>
+    <ExternalReference ID="#External4" TargetType="Graphics:TextureContent">..\..\..\..\Models\haifa\Photo_Texture.jpg</ExternalReference>
+    <ExternalReference ID="#External5" TargetType="Graphics:TextureContent">..\..\..\..\Models\haifa\Photo_Texture15.jpg</ExternalReference>
+    <ExternalReference ID="#External6" TargetType="Graphics:TextureContent">..\..\..\..\Models\haifa\Photo_Texture6.jpg</ExternalReference>
+    <ExternalReference ID="#External7" TargetType="Graphics:TextureContent">..\..\..\..\Models\haifa\Photo_Texture5.jpg</ExternalReference>
+    <ExternalReference ID="#External8" TargetType="Graphics:TextureContent">..\..\..\..\Models\haifa\Photo_Texture7.jpg</ExternalReference>
+    <ExternalReference ID="#External9" TargetType="Graphics:TextureContent">..\..\..\..\Models\haifa\Photo_Texture8.jpg</ExternalReference>
+    <ExternalReference ID="#External10" TargetType="Graphics:TextureContent">..\..\..\..\Models\haifa\Photo_Texture9.jpg</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

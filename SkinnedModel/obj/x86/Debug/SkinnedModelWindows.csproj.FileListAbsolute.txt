@@ -1,0 +1,18 @@
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\SkinningSample\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\SkinningSample\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\SkinningSample\SkinnedModel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\SkinningSample\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\SkinningSample\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\SkinningSample\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\SkinnedModel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\SkinnedModel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb

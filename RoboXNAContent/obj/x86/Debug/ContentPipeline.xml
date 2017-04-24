@@ -1,0 +1,1573 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\background.png</Source>
+      <Name>Images\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Images\background.xnb</Output>
+      <Time>2011-05-01T09:00:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\blank.png</Source>
+      <Name>Images\blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Images\blank.xnb</Output>
+      <Time>2011-05-01T09:00:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\gradient.png</Source>
+      <Name>Images\gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Images\gradient.xnb</Output>
+      <Time>2011-05-01T09:00:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\backgroundFullHD.png</Source>
+      <Name>Images\backgroundFullHD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Images\backgroundFullHD.xnb</Output>
+      <Time>2011-05-01T09:00:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\backgroundFullHDSmall.png</Source>
+      <Name>Images\backgroundFullHDSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Images\backgroundFullHDSmall.xnb</Output>
+      <Time>2011-05-01T09:00:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\background640x480.png</Source>
+      <Name>Images\background640x480</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Images\background640x480.xnb</Output>
+      <Time>2011-05-01T09:00:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\floor_decal_map.dds</Source>
+      <Name>Textures\floor_decal_map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Textures\floor_decal_map.xnb</Output>
+      <Time>2011-04-20T18:15:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\green.bmp</Source>
+      <Name>Textures\green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Textures\green.xnb</Output>
+      <Time>2011-05-13T19:00:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Skybox\skybox_back.JPG</Source>
+      <Name>Models\Skybox\skybox_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_back.xnb</Output>
+      <Time>2011-05-26T19:00:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Skybox\skybox_bottom.JPG</Source>
+      <Name>Models\Skybox\skybox_bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_bottom.xnb</Output>
+      <Time>2011-05-26T19:00:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Skybox\skybox_front.JPG</Source>
+      <Name>Models\Skybox\skybox_front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_front.xnb</Output>
+      <Time>2011-05-26T19:00:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Skybox\skybox_left.JPG</Source>
+      <Name>Models\Skybox\skybox_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_left.xnb</Output>
+      <Time>2011-05-26T19:00:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Skybox\skybox_right.JPG</Source>
+      <Name>Models\Skybox\skybox_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_right.xnb</Output>
+      <Time>2011-05-26T19:00:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Skybox\skybox_top.JPG</Source>
+      <Name>Models\Skybox\skybox_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox_top.xnb</Output>
+      <Time>2011-05-26T19:00:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\door35.jpg</Source>
+      <Name>Models\countryHouse\door35</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\door35.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\fw42b.jpg</Source>
+      <Name>Models\countryHouse\fw42b</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\fw42b.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\leafs.jpg</Source>
+      <Name>Models\countryHouse\leafs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\leafs.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\m1.jpg</Source>
+      <Name>Models\countryHouse\m1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\m1.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\stoned.jpg</Source>
+      <Name>Models\countryHouse\stoned</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\stoned.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\wall1.jpg</Source>
+      <Name>Models\countryHouse\wall1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wall1.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\wall7.jpg</Source>
+      <Name>Models\countryHouse\wall7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wall7.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\window22.jpg</Source>
+      <Name>Models\countryHouse\window22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\window22.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\wood_1B.jpg</Source>
+      <Name>Models\countryHouse\wood_1B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wood_1B.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\fw43_back1.jpg</Source>
+      <Name>Models\NewBuilding\building\fw43_back1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_back1.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\fw43_back2.jpg</Source>
+      <Name>Models\NewBuilding\building\fw43_back2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_back2.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\fw43_door1.jpg</Source>
+      <Name>Models\NewBuilding\building\fw43_door1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_door1.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\fw43_front1.jpg</Source>
+      <Name>Models\NewBuilding\building\fw43_front1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_front1.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\fw43_front2.jpg</Source>
+      <Name>Models\NewBuilding\building\fw43_front2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_front2.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\fw43_s1.jpg</Source>
+      <Name>Models\NewBuilding\building\fw43_s1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_s1.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\fw43_window1.jpg</Source>
+      <Name>Models\NewBuilding\building\fw43_window1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_window1.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\fw_s1.jpg</Source>
+      <Name>Models\NewBuilding\building\fw_s1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw_s1.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\gruenzeug1.jpg</Source>
+      <Name>Models\NewBuilding\building\gruenzeug1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\gruenzeug1.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\gusseisen1.jpg</Source>
+      <Name>Models\NewBuilding\building\gusseisen1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\gusseisen1.xnb</Output>
+      <Time>2011-07-20T10:58:39+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\holzbu1.jpg</Source>
+      <Name>Models\NewBuilding\building\holzbu1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\holzbu1.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\kamin1.jpg</Source>
+      <Name>Models\NewBuilding\building\kamin1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\kamin1.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\roof1.jpg</Source>
+      <Name>Models\NewBuilding\building\roof1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\roof1.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\schild1.jpg</Source>
+      <Name>Models\NewBuilding\building\schild1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\schild1.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\stone1.jpg</Source>
+      <Name>Models\NewBuilding\building\stone1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\stone1.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\windowbalk1.jpg</Source>
+      <Name>Models\NewBuilding\building\windowbalk1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\windowbalk1.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\windowsside1.jpg</Source>
+      <Name>Models\NewBuilding\building\windowsside1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\windowsside1.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\wood1.jpg</Source>
+      <Name>Models\NewBuilding\building\wood1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\wood1.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House1\house1\chimney1.BMP</Source>
+      <Name>Models\House1\house1\chimney1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\chimney1.xnb</Output>
+      <Time>2011-07-20T14:10:31+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House1\house1\Material__1.JPG</Source>
+      <Name>Models\House1\house1\Material__1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\Material__1.xnb</Output>
+      <Time>2011-07-20T14:10:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House1\house1\M_3___frames1.jpg</Source>
+      <Name>Models\House1\house1\M_3___frames1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_3___frames1.xnb</Output>
+      <Time>2011-07-20T14:06:27+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House1\house1\M_7___door1.JPG</Source>
+      <Name>Models\House1\house1\M_7___door1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_7___door1.xnb</Output>
+      <Time>2011-07-20T14:11:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House1\house1\M_8___handle1.JPG</Source>
+      <Name>Models\House1\house1\M_8___handle1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_8___handle1.xnb</Output>
+      <Time>2011-07-20T14:06:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House1\house1\walls1.JPG</Source>
+      <Name>Models\House1\house1\walls1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\walls1.xnb</Output>
+      <Time>2011-07-20T14:06:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House2\2\M_01___Default1.JPG</Source>
+      <Name>Models\House2\2\M_01___Default1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House2\2\M_01___Default1.xnb</Output>
+      <Time>2011-07-20T14:06:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House3\house3\lambert2SG1.png</Source>
+      <Name>Models\House3\house3\lambert2SG1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House3\house3\lambert2SG1.xnb</Output>
+      <Time>2011-07-20T14:06:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\gamefont.spritefont</Source>
+      <Name>Fonts\gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Fonts\gamefont.xnb</Output>
+      <Time>2011-05-01T09:00:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\menufont.spritefont</Source>
+      <Name>Fonts\menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Fonts\menufont.xnb</Output>
+      <Time>2011-05-01T09:00:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\DemoFont.spritefont</Source>
+      <Name>Fonts\DemoFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Fonts\DemoFont.xnb</Output>
+      <Time>2011-04-20T18:28:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\menuBrowse.mp3</Source>
+      <Name>Sounds\menuBrowse</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Sounds\menuBrowse.xnb</Output>
+      <Extra>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Sounds\menuBrowse.wma</Extra>
+      <Time>2011-07-24T22:25:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\birds.mp3</Source>
+      <Name>Sounds\birds</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Sounds\birds.xnb</Output>
+      <Extra>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Sounds\birds.wma</Extra>
+      <Time>2011-07-21T17:43:33.446289+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\blinn_phong.fx</Source>
+      <Name>Effects\blinn_phong</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Effects\blinn_phong.xnb</Output>
+      <Time>2011-04-20T18:15:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\effects.fx</Source>
+      <Name>Effects\effects</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Effects\effects.xnb</Output>
+      <Time>2011-07-11T10:53:39+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Skybox\skybox2.x</Source>
+      <Name>Models\Skybox\skybox</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">20</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\skybox.xnb</Output>
+      <Time>2011-05-26T18:58:51+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Skybox\skybox2_0.xml</Key>
+        <Value>2011-09-03T17:17:22.4094766+03:00</Value>
+      </Dependency>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Top_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Right_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Left_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Front_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Back_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Bottom_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ground.x</Source>
+      <Name>Models\ground</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\ground.xnb</Output>
+      <Time>2011-07-20T10:53:03+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\ground_0.xml</Key>
+        <Value>2011-09-03T17:17:22.8785034+03:00</Value>
+      </Dependency>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\ground_grass_1024_tile_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\fw43_lowpoly_n1.x</Source>
+      <Name>Models\countryHouse\fw43_lowpoly_n1</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\fw43_lowpoly_n1.xnb</Output>
+      <Time>2011-07-20T14:19:21+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\countryHouse\fw43_lowpoly_n1_0.xml</Key>
+        <Value>2011-09-03T17:17:23.5125397+03:00</Value>
+      </Dependency>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wall7_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wood_1B_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\fw42b_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wall1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\stoned_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\window22_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\door35_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\leafs_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\m1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\sphere1uR.x</Source>
+      <Name>Models\sphere1uR</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\sphere1uR.xnb</Output>
+      <Time>2011-09-03T17:08:33.2942129+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\sphere1uR_0.xml</Key>
+        <Value>2011-09-03T17:17:25.0256262+03:00</Value>
+      </Dependency>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\White_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building.fbx</Source>
+      <Name>Models\NewBuilding\building</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">30</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building.xnb</Output>
+      <Time>2011-07-20T16:00:12+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\NewBuilding\building_0.xml</Key>
+        <Value>2011-09-03T17:17:25.4476504+03:00</Value>
+      </Dependency>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_back2_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\roof1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_front2_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_s1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw_s1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\windowsside1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\holzbu1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_back1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_front1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_window1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\kamin1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\wood1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\stone1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\schild1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_door1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\gruenzeug1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\windowbalk1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\gusseisen1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\House1\house1.fbx</Source>
+      <Name>Models\House1\house1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">4</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1.xnb</Output>
+      <Time>2011-07-20T14:09:19+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\House1\house1_0.xml</Key>
+        <Value>2011-09-03T17:17:30.8869615+03:00</Value>
+      </Dependency>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\Material__1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\walls1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\chimney1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_7___door1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_3___frames1_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_8___handle1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\House2\2.fbx</Source>
+      <Name>Models\House2\2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">3</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House2\2.xnb</Output>
+      <Time>2011-07-20T14:11:27+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\House2\2_0.xml</Key>
+        <Value>2011-09-03T17:17:31.4419932+03:00</Value>
+      </Dependency>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House2\2\M_01___Default1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\House3\house3.fbx</Source>
+      <Name>Models\House3\house3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">20</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House3\house3.xnb</Output>
+      <Time>2011-07-20T14:11:47+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\House3\house3_0.xml</Key>
+        <Value>2011-09-03T17:17:32.1600343+03:00</Value>
+      </Dependency>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House3\house3\lambert2SG1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\House4\house4.fbx</Source>
+      <Name>Models\House4\house4</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">38</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House4\house4.xnb</Output>
+      <Time>2011-07-20T14:07:07+03:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\House4\house4_0.xml</Key>
+        <Value>2011-09-03T17:17:33.4411076+03:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\dude.fbx</Source>
+      <Name>Models\dude</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\dude.xnb</Output>
+      <Time>2010-09-15T15:11:00+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\dude_0.xml</Key>
+        <Value>2011-09-03T17:17:36.1492625+03:00</Value>
+      </Dependency>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\head_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\jacket_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\pants_0.xnb</Request>
+      <Request>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\upBodyC_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Skybox\skybox2.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Skybox\skybox2_0.xml</Output>
+      <Time>2011-05-26T18:58:51+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Skybox\SkyBox_Top.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Top_0.xnb</Output>
+      <Time>2011-05-26T19:00:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Skybox\SkyBox_Right.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Right_0.xnb</Output>
+      <Time>2011-05-26T19:00:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Skybox\SkyBox_Left.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Left_0.xnb</Output>
+      <Time>2011-05-26T19:00:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Skybox\SkyBox_Front.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Front_0.xnb</Output>
+      <Time>2011-05-26T19:00:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Skybox\SkyBox_Back.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Back_0.xnb</Output>
+      <Time>2011-05-26T19:00:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Skybox\SkyBox_Bottom.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\Skybox\SkyBox_Bottom_0.xnb</Output>
+      <Time>2011-05-26T19:00:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ground.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\ground_0.xml</Output>
+      <Time>2011-07-20T10:53:03+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ground_grass_1024_tile.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\ground_grass_1024_tile_0.xnb</Output>
+      <Time>2011-07-20T10:35:29+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\fw43_lowpoly_n1.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\countryHouse\fw43_lowpoly_n1_0.xml</Output>
+      <Time>2011-07-20T14:19:21+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\wall7.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wall7_0.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\wood_1B.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wood_1B_0.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\fw42b.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\fw42b_0.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\wall1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\wall1_0.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\stoned.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\stoned_0.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\window22.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\window22_0.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\door35.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\door35_0.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\leafs.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\leafs_0.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\countryHouse\m1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\countryHouse\m1_0.xnb</Output>
+      <Time>2006-02-23T08:16:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\sphere1uR.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\sphere1uR_0.xml</Output>
+      <Time>2011-09-03T17:08:33.2942129+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\White.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\White_0.xnb</Output>
+      <Time>2008-09-12T16:55:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\NewBuilding\building_0.xml</Output>
+      <Time>2011-07-20T16:00:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\fw43_back2.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_back2_0.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\roof1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\roof1_0.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\fw43_front2.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_front2_0.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\fw43_s1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_s1_0.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\fw_s1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw_s1_0.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\windowsside1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\windowsside1_0.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\holzbu1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\holzbu1_0.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\fw43_back1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_back1_0.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\fw43_front1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_front1_0.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\fw43_window1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_window1_0.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\kamin1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\kamin1_0.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\wood1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\wood1_0.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\stone1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\stone1_0.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\schild1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\schild1_0.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\fw43_door1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\fw43_door1_0.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\gruenzeug1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\gruenzeug1_0.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\windowbalk1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\windowbalk1_0.xnb</Output>
+      <Time>2011-07-20T10:58:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\NewBuilding\building\gusseisen1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\NewBuilding\building\gusseisen1_0.xnb</Output>
+      <Time>2011-07-20T10:58:39+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House1\house1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\House1\house1_0.xml</Output>
+      <Time>2011-07-20T14:09:19+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House1\house1\Material__1.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\Material__1_0.xnb</Output>
+      <Time>2011-07-20T14:10:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House1\house1\walls1.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\walls1_0.xnb</Output>
+      <Time>2011-07-20T14:06:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House1\house1\chimney1.BMP</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\chimney1_0.xnb</Output>
+      <Time>2011-07-20T14:10:31+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House1\house1\M_7___door1.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_7___door1_0.xnb</Output>
+      <Time>2011-07-20T14:11:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House1\house1\M_3___frames1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_3___frames1_0.xnb</Output>
+      <Time>2011-07-20T14:06:27+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House1\house1\M_8___handle1.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House1\house1\M_8___handle1_0.xnb</Output>
+      <Time>2011-07-20T14:06:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House2\2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\House2\2_0.xml</Output>
+      <Time>2011-07-20T14:11:27+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House2\2\M_01___Default1.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House2\2\M_01___Default1_0.xnb</Output>
+      <Time>2011-07-20T14:06:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House3\house3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\House3\house3_0.xml</Output>
+      <Time>2011-07-20T14:11:47+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House3\house3\lambert2SG1.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\House3\house3\lambert2SG1_0.xnb</Output>
+      <Time>2011-07-20T14:06:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\House4\house4.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\House4\house4_0.xml</Output>
+      <Time>2011-07-20T14:07:07+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\dude.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\dude_0.xml</Output>
+      <Time>2010-09-15T15:11:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\head.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\head_0.xnb</Output>
+      <Time>2010-09-15T15:11:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\jacket.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\jacket_0.xnb</Output>
+      <Time>2010-09-15T15:11:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\pants.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\pants_0.xnb</Output>
+      <Time>2010-09-15T15:11:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\upBodyC.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\Models\upBodyC_0.xnb</Output>
+      <Time>2010-09-15T15:11:00+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNAContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNAContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNA\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll</Key>
+        <Value>2011-09-03T17:10:42.7316163+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-25T17:57:04.4248005+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

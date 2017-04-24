@@ -1,0 +1,2 @@
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA Test\RoboXNAContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2010\Projects\RoboXNA\RoboXNAContent\obj\x86\Debug\ResolveAssemblyReference.cache
